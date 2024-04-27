@@ -1,0 +1,5 @@
+
+
+export const GET_REQUEST = 'GET_REQUEST';
+export const REQUEST_SUCCESS = 'REQUEST_SUCCESS';
+export const REQUEST_FAILD = 'REQUEST_FAILD';
